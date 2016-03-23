@@ -36,14 +36,16 @@
         android:layout_height="wrap_content"
         android:text="New Button"
         android:background="@color/colorPrimary"
-        android:id="@+id/button" />
+        android:id="@+id/button" 
+		android:padding="20dp"/>
 
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New CheckBox"
         android:background="@color/colorPrimary"
-        android:id="@+id/checkBox" />
+        android:id="@+id/checkBox"
+		android:padding="20dp"		/>
 
     <ProgressBar
         style="?android:attr/progressBarStyleHorizontal"
@@ -51,6 +53,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/progressBar"
         android:background="@color/colorPrimary"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+android:padding="20dp"		/>
 
 </LinearLayout>
