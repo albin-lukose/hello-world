@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kopp</string>
+        <string name="dialog_text">
+ \tOne Time password (OTP) has been sent to \nyour mobile ******9170 and on your email *********@gmail.com</string>
+</resources>
