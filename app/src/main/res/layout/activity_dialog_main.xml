@@ -35,12 +35,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New Button"
+        android:background="@color/colorPrimary"
         android:id="@+id/button" />
 
     <CheckBox
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="New CheckBox"
+        android:background="@color/colorPrimary"
         android:id="@+id/checkBox" />
 
     <ProgressBar
@@ -48,6 +50,7 @@
         android:layout_width="110dp"
         android:layout_height="wrap_content"
         android:id="@+id/progressBar"
+        android:background="@color/colorPrimary"
         android:layout_gravity="center_horizontal" />
 
 </LinearLayout>
